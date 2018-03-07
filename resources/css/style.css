@@ -45,3 +45,25 @@ a{
   background-color: black;
   width: 100%;
 }
+.tea-of-the-month{
+  display: flex;
+  width: 1000px;
+  margin: auto;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 70px;
+}
+.tea-of-the-month h2{
+  margin: 15px 0px;
+}
+.tea-of-the-month h4{
+  margin: 10px 0px 15px 0px;
+}
+.tea-of-the-month img{
+  height: 200px;
+  width: 300px;
+}
+.menu-item{
+  display:inline-block;
+  padding: 10px;
+}
